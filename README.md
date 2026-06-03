@@ -1,4 +1,4 @@
-# Hey, I'm Nicolás 👋
+# Hey, I'm Norman 👋
 
 Security researcher & AI enthusiast. I work at the intersection of **offensive security** and **AI agents** — building, breaking, and automating things.
 
