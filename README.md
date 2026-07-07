@@ -6,7 +6,7 @@ Security researcher & AI enthusiast. I work at the intersection of **offensive s
 
 ## Starred Repos — Organized by Category
 
-> 88 repos across 9 categories.
+> 109 repos across 9 categories.
 
 ---
 
@@ -28,7 +28,7 @@ Security researcher & AI enthusiast. I work at the intersection of **offensive s
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Complete AI agency — specialized agents with personality |
 | [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) | Theoretical reconstruction of Claude Mythos architecture |
 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | Pre-indexed code knowledge graph for Claude Code and Codex |
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | Interactive knowledge graph from any codebase |
+| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Interactive knowledge graph from any codebase |
 | [video-db/call.md](https://github.com/video-db/call.md) | Turn meetings into live agent loops with AI intelligence |
 | [github/spec-kit](https://github.com/github/spec-kit) | Spec-Driven Development toolkit |
 | [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | Leaked system prompts for ChatGPT, Claude, Gemini, and more |
@@ -36,6 +36,12 @@ Security researcher & AI enthusiast. I work at the intersection of **offensive s
 | [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) | Claude skill that writes accurate prompts for any AI tool |
 | [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) | Windows companion suite for OpenClaw — system tray + PowerToys |
 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | AI agents running research on single-GPU automatically |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | High-performance code intelligence MCP server — knowledge graph, 158 languages, sub-ms queries |
+| [mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices) | Write professional-grade skills for agents — validate with LLMs, lean context window |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for real engineers — straight from Matt Pocock's .claude directory |
+| [anthropics/skills](https://github.com/anthropics/skills) | Official Anthropic public repository for Agent Skills |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | Open source extensible AI agent — install, execute, edit, and test with any LLM |
+| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Batteries-included agent harness by LangChain |
 
 ---
 
@@ -60,6 +66,10 @@ Security researcher & AI enthusiast. I work at the intersection of **offensive s
 | [BishopFox/otto-support](https://github.com/BishopFox/otto-support) | Vulnerable MCP server implementation for testing |
 | [bugbasesecurity/pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) | AI-powered browser-based ethical hacking assistant |
 | [H-mmer/pentest-agents](https://github.com/H-mmer/pentest-agents) | Bug bounty agent framework — 48 agents, 26 commands, 2 MCP servers |
+| [google/sec-gemini](https://github.com/google/sec-gemini) | Google AI model designed to enhance cybersecurity capabilities and empower defenders |
+| [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) | MCP servers for offensive security tools — Nmap, Ghidra, Nuclei, SQLMap, Hashcat |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | Agent harness performance optimization — skills, instincts, memory, and security for Claude Code |
+| [afsh4ck/HackLabs](https://github.com/afsh4ck/HackLabs) | Intentionally vulnerable hacking labs |
 
 ---
 
@@ -72,6 +82,9 @@ Security researcher & AI enthusiast. I work at the intersection of **offensive s
 | [luckyPipewrench/pipelock](https://github.com/luckyPipewrench/pipelock) | Open-source AI agent firewall — egress control, DLP, SSRF, prompt injection defense |
 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | Policy enforcement and zero-trust for AI agents — covers OWASP Agentic Top 10 |
 | [Clear-Capabilities/agentic-security](https://github.com/Clear-Capabilities/agentic-security) | Agentic security toolkit — safe, secure, and compliant agent workforce |
+| [Pantheon-Security/medusa](https://github.com/Pantheon-Security/medusa) | AI security scanner with Claude Code compromise detection — vets .claude/ hooks, permissions & skills |
+| [SantanderAI/autoguardrails](https://github.com/SantanderAI/autoguardrails) | Alignment-research scaffold for LLM guardrails — red-teaming, jailbreak, prompt injection |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Security scanner for AI agent skills — detect vulnerabilities and malicious patterns |
 
 ---
 
@@ -88,11 +101,12 @@ Security researcher & AI enthusiast. I work at the intersection of **offensive s
 | [Mynster9361/Least_Privileged_MSGraph](https://github.com/Mynster9361/Least_Privileged_MSGraph) | Least privilege implementation for Microsoft Graph |
 | [davidalonsod/Dalonso-Security-Repo](https://github.com/davidalonsod/Dalonso-Security-Repo) | Microsoft security products information and samples |
 | [Sergio-Albea-Git/Threat-Hunting-KQL-Queries](https://github.com/Sergio-Albea-Git/Threat-Hunting-KQL-Queries) | KQL queries for threat hunting in Microsoft environments |
-| [cudeso/zsazsa](https://github.com/cudeso/zsazsa) | CTI program management platform built around MISP |
+| [zsazsa-project/zsazsa](https://github.com/zsazsa-project/zsazsa) | CTI program management platform built around MISP |
 | [microsoft/mcp](https://github.com/microsoft/mcp) | Official Microsoft MCP server implementations for AI-powered data access |
 | [microsoft/skills](https://github.com/microsoft/skills) | Skills, MCP servers, and Custom Agents for grounding coding agents |
 | [MicrosoftDocs/Agent-Skills](https://github.com/MicrosoftDocs/Agent-Skills) | Curated agent skills for Microsoft & Azure with real-time expertise |
 | [Azure/Azure-Verified-Modules](https://github.com/Azure/Azure-Verified-Modules) | Standards for Infrastructure-as-Code modules — Bicep and Terraform |
+| [sameerk27/vigil365](https://github.com/sameerk27/vigil365) | Self-hosted Microsoft 365 security dashboard — Defender XDR, Entra ID, Intune |
 
 ---
 
@@ -124,6 +138,8 @@ Security researcher & AI enthusiast. I work at the intersection of **offensive s
 | [mathomhaus/guild](https://github.com/mathomhaus/guild) | Shared context, memory, and task coordination across AI agents |
 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Vector index built on TurboQuant — Rust with Python bindings |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent context across sessions for every agent |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs and RAG chunks before LLM — 60-95% fewer tokens |
+| [jaimeirazabal1/rag-architectures](https://github.com/jaimeirazabal1/rag-architectures) | 6 RAG architectures as microservices — Naïve, Advanced, GraphRAG, Agentic RAG, Hybrid RAG |
 
 ---
 
@@ -147,6 +163,9 @@ Security researcher & AI enthusiast. I work at the intersection of **offensive s
 | [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor) | Monitor anything in real time — AI-powered dashboard |
 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Convert files and Office documents to Markdown |
 | [rjcas/conversor-markdown](https://github.com/rjcas/conversor-markdown) | Convert files to MD for AI — token-efficient |
+| [huggingface/Repo2RLEnv](https://github.com/huggingface/Repo2RLEnv) | Convert any repository into a Reinforcement Learning environment |
+| [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | Train your LLM from scratch — data download to text generation |
+| [memonkey01/cursos_pypro](https://github.com/memonkey01/cursos_pypro) | Python programming courses — PyPro |
 
 ---
 
@@ -157,6 +176,8 @@ Security researcher & AI enthusiast. I work at the intersection of **offensive s
 |------|-------------|
 | [presenton/presenton](https://github.com/presenton/presenton) | Open-source AI presentation generator — Gamma alternative |
 | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | HTML-native design skill for Claude Code — hi-fi prototypes + animations |
+| [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) | Generate draw.io diagrams from natural language — 6 presets, vision self-check, 10,000+ shapes |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | AI skill for professional UI/UX design across multiple platforms |
 
 ---
 
@@ -171,5 +192,5 @@ Security researcher & AI enthusiast. I work at the intersection of **offensive s
 ---
 
 <p align="center">
-  <i>Organized with Claude Code · June 2026</i>
+  <i>Organized with Claude Code · July 2026</i>
 </p>
